@@ -12,3 +12,5 @@ Git是免费的，太好了。。。。
 this is the 3rd time's change
 I wanna to see how it works
 so ..
+
+git has mutable index called stage
