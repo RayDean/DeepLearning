@@ -8,3 +8,7 @@ This is a 测试用的git
 Git is a free software 
 
 Git是免费的，太好了。。。。
+
+this is the 3rd time's change
+I wanna to see how it works
+so ..
