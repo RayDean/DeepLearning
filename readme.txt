@@ -19,4 +19,5 @@ This is 1st change
 
 This is 2nd change
 
-Creating a new branch is quick and master simple....
+Creating a new branch is quick and simple....
+
