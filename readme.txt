@@ -18,3 +18,5 @@ git has mutable index called stage
 This is 1st change
 
 This is 2nd change
+
+Creating a new branch is quick....
